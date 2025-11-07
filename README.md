@@ -5,6 +5,12 @@ Built entirely with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
+## 🎮 Demo
+
+👉 **Play it here:** [Rock Paper Scissors Lizard Spock](https://rian-batista-rx4n.github.io/rock-paper-scissors-lizard-spock/)
+
+---
+
 ## 🧠 About the Game
 
 This game extends the traditional “Rock, Paper, Scissors” rules with two additional gestures — *Lizard* and *Spock*.  
